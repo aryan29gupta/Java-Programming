@@ -1,5 +1,5 @@
 //The motive of my project is to build a flight booking system which allows you to book tickets for upcoming flights to your dream destination. The project displays your ticket at the end with all the necessary details.
-//I have used basic Java programming to complete the task.
+//I have used basic Java programming to complete this task.
 
 
 import java.util.*;
